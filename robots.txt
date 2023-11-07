@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ashishk831.github.io/ashishkumar.github.io/sitemap.xml
